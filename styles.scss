@@ -86,7 +86,8 @@ body {
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
-  border: 1px solid black;
+  outline: 1px solid black;
+  box-shadow: 0 0 12px black;
   box-sizing: border-box;
   width: 220px;
   height: 220px;
@@ -102,6 +103,7 @@ img {
   margin: 10px 30px;
 }
 
+// prevents blue rectangle between arrows
 .noSelect {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
