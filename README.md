@@ -1,2 +1,2 @@
 # responsive-carousel-1
-Carousel build using SCSS and ES6 JavaScript, fully responsive to work on mobile, tablet, and desktop.
+Image carousel with dot indicators. Built using SCSS and ES6 JavaScript. Fully responsive to work on mobile, tablet, and desktop. 
